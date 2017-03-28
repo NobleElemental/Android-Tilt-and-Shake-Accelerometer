@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="title_activity_shaker">ShakerActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
